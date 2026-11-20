@@ -10,6 +10,8 @@ a release is corrected by another release and never by moving a tag.
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-11-20
+
 ### Added
 
 - `Server`, an SMTP and ESMTP server with plain listeners (`Serve`,

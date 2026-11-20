@@ -1,5 +1,5 @@
 # Upgrade Guide
 
-## Unreleased
+## v0.1.0
 
-Nothing to upgrade from: there is no release yet.
+Nothing to upgrade from: this is the first release.
